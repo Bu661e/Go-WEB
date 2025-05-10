@@ -1,0 +1,54 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    /* 设置一个常见的字体 */
+    line-height: 1.6;
+    /* 设置行高 */
+    margin: 20px;
+    /* 给页面内容添加一些外边距 */
+    background-color: #f4f4f4;
+    /* 设置一个浅灰色背景 */
+    color: #333;
+    /* 设置默认文本颜色 */
+}
+
+header {
+    background-color: #333;
+    /* 头部背景颜色 */
+    color: #fff;
+    /* 头部文本颜色 */
+    padding: 10px 0;
+    /* 头部内边距 */
+    text-align: center;
+    /* 头部文本居中 */
+    margin-bottom: 20px;
+    /* 头部下方外边距 */
+}
+
+main {
+    background-color: #fff;
+    /* 主内容区域背景 */
+    padding: 20px;
+    /* 主内容区域内边距 */
+    border-radius: 8px;
+    /* 添加圆角 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* 添加阴影 */
+}
+
+footer {
+    text-align: center;
+    /* 底部文本居中 */
+    margin-top: 20px;
+    /* 底部上方外边距 */
+    color: #777;
+    /* 底部文本颜色 */
+    font-size: 0.9em;
+    /* 底部字体小一点 */
+}
+
+/* 为段落添加一些样式 */
+p {
+    margin-bottom: 10px;
+}
